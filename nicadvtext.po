@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Text in function
+#: nic_bag_adv.php:1070
+msgid "Replies"
+msgstr "Replies"
+
+#. Text in function
+#: nic_bag_adv.php:1070
+msgid "Reply"
+msgstr "Reply"
+
+#. Text in function
+#: nic_bag_adv.php:1089
+msgid "About"
+msgstr "About"
+
+#. Text in function
+#: nic_bag_adv.php:1076
+msgid "Continue reading"
+msgstr "Continue reading"
+
+#. Text in function
+#: nic_bag_adv.php:1082
+msgid "Edit"
+msgstr "Edit"
+
+#. Text in function
+#: nic_bag_adv.php:1070
+msgid "Leave a reply"
+msgstr "Leave a reply"
+
+#. Text in function
+#: nic_bag_adv.php:1077
+msgid "Pages:"
+msgstr "Pages:"
+
+#. Text in function
+#: nic_bag_adv.php:1064
+msgid "Permalink to"
+msgstr "Permalink to"
+
+#. Text in function
+#: nic_bag_adv.php:1093
+msgid "View all posts by"
+msgstr "View all posts by"
+
+#. Text in function
+#: nic_bag_adv.php:1273
+msgid "Add Iteam Image"
+msgstr "Add Iteam Image"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Advertisement"
+msgstr "Advertisement"
+
+#. Text in function
+#: nic_bag_adv.php:359 nic_bag_adv.php:1103 nic_bag_adv.php:1456
+msgid "Advertisement Iteam"
+msgstr "Advertisement Iteam"
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Advertisement Portions"
+msgstr "Advertisement Portions"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Advertisement added successfully."
+msgstr "Advertisement added successfully."
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Advertiser"
+msgstr "Advertiser"
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Advertiser Information"
+msgstr "Advertiser Information"
+
+#. Text in function
+#: nic_bag_adv.php:1478
+msgid "All Partition Available"
+msgstr "All Partition Available"
+
+#. Text in function
+#: nic_bag_adv.php:999
+msgid "All form fields are required."
+msgstr "All form fields are required."
+
+#. Text in function
+#: nic_bag_adv.php:1388
+msgid "Available"
+msgstr "Available"
+
+#. Text in function
+#: nic_bag_adv.php:1342
+msgid "Available Sponsers"
+msgstr "Available Sponsers"
+
+#. Text in function
+#: nic_bag_adv.php:359 nic_bag_adv.php:1289 nic_bag_adv.php:1843
+msgid "Banner"
+msgstr "Banner"
+
+#. Text in function
+#: nic_bag_adv.php:1312
+msgid "Booked Partition"
+msgstr "Booked Partition"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Booking Infomation"
+msgstr "Booking Infomation"
+
+#. Text in function
+#: nic_bag_adv.php:1285 nic_bag_adv.php:1838
+msgid "Contact No"
+msgstr "Contact No"
+
+#. Text in function
+#: nic_bag_adv.php:1026
+msgid "Custom Post type Template Missing"
+msgstr "Custom Post type Template Missing"
+
+#. Text in function
+#: nic_bag_adv.php:1006
+msgid "Description"
+msgstr "Description"
+
+#. Text in function
+#: nic_bag_adv.php:359 nic_bag_adv.php:1281 nic_bag_adv.php:1833
+msgid "Email"
+msgstr "Email"
+
+#. Text in echo
+#: nic_bag_adv.php:1845
+msgid "Enter a value for this field"
+msgstr "Enter a value for this field"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Error in adding Advertisement"
+msgstr "Error in adding Advertisement"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "File too big."
+msgstr "File too big."
+
+#. Text in function
+#: nic_bag_adv.php:1658
+msgid "Height"
+msgstr "Height"
+
+#. Text in function
+#: nic_bag_adv.php:1011 nic_bag_adv.php:1664
+msgid "Horizontal Partition"
+msgstr "Horizontal Partition"
+
+#. Text in function
+#: nic_bag_adv.php:1
+msgid "Invalid Partition."
+msgstr "Invalid Partition."
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "It can not be trash. This Advertisement have Sponsers."
+msgstr "It can not be trash. This Advertisement have Sponsers."
+
+#. Text in function
+#: nic_bag_adv.php:1658
+msgid "Iteam"
+msgstr "Iteam"
+
+#. Text in function
+#: nic_bag_adv.php:1008
+msgid "Item Height X Width"
+msgstr "Item Height X Width"
+
+#. Text in function
+#: nic_bag_adv.php:1314 nic_bag_adv.php:1345
+msgid "Name"
+msgstr "Item Height X Width"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "No Advertiser Assigned"
+msgstr "No Advertiser Assigned"
+
+#. Text in function
+#: nic_bag_adv.php:1
+msgid "No Available Partition."
+msgstr "No Available Partition."
+
+#. Text in function
+#: nic_bag_adv.php:1478
+msgid "No Sponsers In Draft. Please add sponser first."
+msgstr "No Sponsers In Draft. Please add sponser first."
+
+#. Text in function
+#: nic_bag_adv.php:359 nic_bag_adv.php:1315 nic_bag_adv.php:1346
+msgid "Partition"
+msgstr "Partition"
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Partition No"
+msgstr "Partition No"
+
+#. Text in function
+#: nic_bag_adv.php:1
+msgid "Partition is already assigned."
+msgstr "Partition is already assigned."
+
+#. Text in function
+#: nic_bag_adv.php:1714 nic_bag_adv.php:1812
+msgid "Prices for partition"
+msgstr "Prices for partition"
+
+#. Text in function
+#: nic_bag_adv.php:1389
+msgid "Reserved"
+msgstr "Reserved"
+
+#. Text in function
+#: nic_bag_adv.php:1103 nic_bag_adv.php:1459
+msgid "Select"
+msgstr "Select"
+
+#. Text in function
+#: nic_bag_adv.php:346
+msgid "Show All Advertisements"
+msgstr "Show All Advertisements"
+
+#. Text in function
+#: nic_bag_adv.php:321
+msgid "Show All Iteams"
+msgstr "Show All Advertisements"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid ""
+"Some of Advertisements can not be trash. These Advertises have Sponsers."
+msgstr ""
+"Some of Advertisements can not be trash. These Advertises have Sponsers."
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid ""
+"Some of Iteams can not be trash. Thiese iteams are assigned to advertisers."
+msgstr ""
+"Some of Iteams can not be trash. Thiese iteams are assigned to advertisers."
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Sponser"
+msgstr "Sponser"
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Sponser Information"
+msgstr "Sponser Information"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Sponser added successfully"
+msgstr "Sponser added successfully"
+
+#. Text in function
+#: nic_bag_adv.php:1103
+msgid "Sponsers"
+msgstr "Sponsers"
+
+#. Text in function
+#: nic_bag_adv.php:1004
+msgid "Title"
+msgstr "Title"
+
+#. Text in function
+#: nic_bag_adv.php:359
+msgid "Unknown Image extension"
+msgstr "Unknown Image extension"
+
+#. Text in function
+#: nic_bag_adv.php:1013 nic_bag_adv.php:1668
+msgid "Verticle Partition"
+msgstr "Verticle Partition"
+
+#. Text in function
+#: nic_bag_adv.php:1659
+msgid "Width"
+msgstr "Width"
+
+#. Text in function
+#: nic_bag_adv.php:982
+msgid "You are not logged in please login to site by click"
+msgstr "You are not logged in please login to site by click"
+
+#. Text in function
+#: nic_bag_adv.php:982
+msgid "here"
+msgstr "here"
